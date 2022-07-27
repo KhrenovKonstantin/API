@@ -11,7 +11,7 @@ import allure
 
 # Актуализация информации о запасах по данным SAP ERP САПФИР
 
-@allure.epic("Актуализация информации о запасах по данным SAP ERP САПФИР")
+@allure.epic("Актуализация информации о запасах по данным SAP ERP САПФИР ")
 class TestUpdateInformReservDate(BaseCase):
 
     # Авторизация и получение необходимых cookie и headers
