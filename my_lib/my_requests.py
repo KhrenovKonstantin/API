@@ -60,7 +60,7 @@ class MyRequests():
             'User-Agent': "PostmanRuntime/7.29.0",
             'Accept': "*/*",
             'Cache-Control': "Cache-Control",
-            'Host': "localmail.itexpert.ru:5057",
+            'Host': "localmail.itexpert.ru:5058",
             'Accept-Encoding': "gzip, deflate, br",
             'Connection': "keep-alive",
             'Content-Length': "69"
@@ -74,7 +74,7 @@ class MyRequests():
             'User-Agent': "PostmanRuntime/7.29.0",
             'Accept': "*/*",
             'Cache-Control': "Cache-Control",
-            'Host': "localmail.itexpert.ru:5057",
+            'Host': "localmail.itexpert.ru:5058",
             'Accept-Encoding': "gzip, deflate, br",
             'Connection': "keep-alive",
             'Content-Length': "69",

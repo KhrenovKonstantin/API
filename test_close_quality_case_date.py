@@ -3,6 +3,7 @@ from my_lib.assertions import Assertion
 from my_lib.my_requests import MyRequests
 from my_lib.base_case import BaseCase
 import allure
+import pytest
 
 
 # python -m pytest -s test_close_quality_case_date.py -k Test_close_quality_case_date
